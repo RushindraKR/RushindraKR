@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RushindraKR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Artificial Intelligence
+- 👋 Hi, I’m Rushindra KR
+- 👀 I’m interested in learning new things 
+- 🌱 I’m currently learning Artificial Intelligence in python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
